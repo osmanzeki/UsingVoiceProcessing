@@ -2,7 +2,7 @@
 
 Add voice processing capabilities to your app by using AVAudioEngine.
 
-![AVEchoTouch](IMG_0066.png)
+![AVEchoTouch](IMG_0066.PNG)
 
 ## Overview
 
